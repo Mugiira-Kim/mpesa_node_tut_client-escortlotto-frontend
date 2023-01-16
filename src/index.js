@@ -5,7 +5,7 @@ import App from "./App";
 import axios from "axios";
 
 //axios.defaults.baseURL = "http://localhost:8000";
-axios.defaults.baseURL = "https://escortlotto-backend.herokuapp.com"; //https://fortunempesa.herokuapp.com
+axios.defaults.baseURL = "https://lotto-backend.nairobiclassyescorts.com"; //https://fortunempesa.herokuapp.com
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
